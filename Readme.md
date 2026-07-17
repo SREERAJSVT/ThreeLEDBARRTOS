@@ -4,6 +4,9 @@
 This project demonstrates concurrent multitasking on an STM32 microcontroller using FreeRTOS. The system runs three independent RTOS tasks simultaneously. Each task controls a specific LED on a breadboard, toggling it at a unique frequency while printing debug information to a computer via a UART serial connection.
 
 ## Demo
+## Demo
+
+https://github.com/user-attachments/assets/4d47f1a1-9d6a-4c10-85bb-15dbc41c972d
 
 
 The project features three LEDs (a green LED bar graph segment, an orange LED, and a red LED) blinking independently at 1000ms, 800ms, and 400ms intervals, respectively.
